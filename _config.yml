@@ -22,8 +22,8 @@ title: Chinese Colloquial Expressions
 email: hes2@carleton.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Colloquial expressions on the streets of Beijing and Shanghai.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Chinese-Colloquial-Expressions" # the subpath of your site, e.g. /blog
+url: "https://sue-he.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  sue-he
 
